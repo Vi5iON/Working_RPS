@@ -1,5 +1,8 @@
 # Working_RPS
 
-Code can be found in main branch.\n
-replit linked rock, paper scissor console game\n
-[game] : https://replit.com/@Vi5iON/WorkingRPS?v=1
+Code can be found in main branch.
+
+Replit linked rock, paper scissor console game
+
+
+[game link] : https://replit.com/@Vi5iON/WorkingRPS?v=1
