@@ -64,7 +64,7 @@ def main():
         if want.lower() == 'y':
             os.system('cls')
             game()
-        else :
+        elif want.lower() == 'n':
             #quitung the game
             os.system('cls')
             print(f'\n\n\n\n\t\t\tYour score {scr.user_score} and computers score {scr.comp_score}')
@@ -77,6 +77,8 @@ def main():
             time.sleep(2)
             end_game.main()
             break
+        else :
+            print('!! Invalid input !!')
 
 #this is the main function that starts the game
 def game():
